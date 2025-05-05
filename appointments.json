@@ -1,0 +1,86 @@
+[
+    {
+        "appointment_id": 500,
+        "patient_id": 100,
+        "doctor_id": 1,
+        "slot": "10:00AM"
+    },
+    {
+        "appointment_id": 501,
+        "patient_id": 101,
+        "doctor_id": 1,
+        "slot": "2:00PM"
+    },
+    {
+        "appointment_id": 502,
+        "patient_id": 102,
+        "doctor_id": 2,
+        "slot": "9:00AM"
+    },
+    {
+        "appointment_id": 503,
+        "patient_id": 103,
+        "doctor_id": 3,
+        "slot": "11:00AM"
+    },
+    {
+        "appointment_id": 504,
+        "patient_id": 104,
+        "doctor_id": 4,
+        "slot": "2:00PM"
+    },
+    {
+        "appointment_id": 505,
+        "patient_id": 105,
+        "doctor_id": 5,
+        "slot": "1:00PM"
+    },
+    {
+        "appointment_id": 506,
+        "patient_id": 106,
+        "doctor_id": 6,
+        "slot": "10:00AM"
+    },
+    {
+        "appointment_id": 507,
+        "patient_id": 107,
+        "doctor_id": 7,
+        "slot": "11:00AM"
+    },
+    {
+        "appointment_id": 508,
+        "patient_id": 108,
+        "doctor_id": 2,
+        "slot": "10:00AM"
+    },
+    {
+        "appointment_id": 510,
+        "patient_id": 111,
+        "doctor_id": 7,
+        "slot": "2:00PM"
+    },
+    {
+        "appointment_id": 511,
+        "patient_id": 112,
+        "doctor_id": 6,
+        "slot": "1:00PM"
+    },
+    {
+        "appointment_id": 512,
+        "patient_id": 113,
+        "doctor_id": 5,
+        "slot": "4:00PM"
+    },
+    {
+        "appointment_id": 513,
+        "patient_id": 114,
+        "doctor_id": 4,
+        "slot": "3:00PM"
+    },
+    {
+        "appointment_id": 514,
+        "patient_id": 115,
+        "doctor_id": 3,
+        "slot": "12:00PM"
+    }
+]

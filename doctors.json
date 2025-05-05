@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "name": "Shahad Kareem",
+        "specialization": "Dermatologist",
+        "slots": [
+            "10:00AM",
+            "11:00AM",
+            "2:00PM"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Dr. Aisha Al Mazrouei",
+        "specialization": "Pediatrics",
+        "slots": [
+            "9:00AM",
+            "10:00AM"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Dr. Saeed Al Hammadi",
+        "specialization": "ENT (Ear/Nose/Throat)",
+        "slots": [
+            "11:00AM",
+            "12:00PM"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Dr. Leila Al Nuaimi",
+        "specialization": "Dermatology",
+        "slots": [
+            "2:00PM",
+            "3:00PM"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Dr. Khalid Al Rumaithi",
+        "specialization": "Neurology",
+        "slots": [
+            "1:00PM",
+            "4:00PM"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Dr. Fatima Al Shamsi",
+        "specialization": "General Medicine",
+        "slots": [
+            "10:00AM",
+            "1:00PM"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Dr. Hamdan Al Suwaidi",
+        "specialization": "Surgery",
+        "slots": [
+            "11:00AM",
+            "2:00PM"
+        ]
+    }
+]
